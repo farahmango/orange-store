@@ -1,0 +1,37 @@
+
+.pic{
+margin: 10px  auto;
+height: 20vh;
+width:30%;
+}
+.cont{
+margin:auto;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+
+}
+.card1{
+ margin:20px  auto;
+}
+.price{
+    color:orange;
+}
+p,h3,h4,span{
+
+    padding-left: 10px;
+}
+.btn1{
+    width: 60%;
+    margin-left: 20px;
+}
+.btn2{
+    width: 20%;
+    margin-right: 30px;
+    float: right;
+}
+.cart{
+margin: auto;  
+ 
+}
+
